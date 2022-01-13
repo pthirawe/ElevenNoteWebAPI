@@ -1,0 +1,16 @@
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
