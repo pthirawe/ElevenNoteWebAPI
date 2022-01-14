@@ -125,3 +125,8 @@ C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\El
 C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
 C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
 C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\WebActivatorEx.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\System.Web.Cors.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.WebAPI\bin\System.Web.Http.Cors.xml

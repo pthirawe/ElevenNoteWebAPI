@@ -93,6 +93,10 @@
     <Compile Include="Migrations\202201141741142_NewInitialMigration.designer.cs">
       <DependentUpon>202201141741142_NewInitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202201141925021_AddedSwagger.cs" />
+    <Compile Include="Migrations\202201141925021_AddedSwagger.designer.cs">
+      <DependentUpon>202201141925021_AddedSwagger.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -104,6 +108,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202201141741142_NewInitialMigration.resx">
       <DependentUpon>202201141741142_NewInitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202201141925021_AddedSwagger.resx">
+      <DependentUpon>202201141925021_AddedSwagger.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

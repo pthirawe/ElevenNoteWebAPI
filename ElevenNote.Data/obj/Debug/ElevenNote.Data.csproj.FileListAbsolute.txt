@@ -35,3 +35,4 @@ C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\El
 C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
 C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.NewInitialMigration.resources
 C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\patom\Documents\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedSwagger.resources
